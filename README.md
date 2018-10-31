@@ -41,7 +41,7 @@ SendGrid does not merge a pull request made against a SendGrid open source proje
 <a name="local"></a>
 ## Local Setup
 
-<a name="dependencies"></a>
+<a name="dependencies "></a>
 ### Dependencies
 
 * Required:
@@ -53,7 +53,7 @@ SendGrid does not merge a pull request made against a SendGrid open source proje
     * [Gatsby](https://www.gatsbyjs.org)
 
 <a name="setup"></a>
-### Setup Steps
+### Setup Steps..
 
 * Install Git for:
 	* [Mac](https://git-scm.com/download/mac) 
